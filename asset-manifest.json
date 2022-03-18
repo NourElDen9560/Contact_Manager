@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/contact_manager/static/css/main.073c9b0a.css",
+    "main.js": "/contact_manager/static/js/main.d963ef3a.js",
+    "static/js/787.f87af6a6.chunk.js": "/contact_manager/static/js/787.f87af6a6.chunk.js",
+    "static/media/user.png": "/contact_manager/static/media/user.c25a5e85ae517b3c3093.png",
+    "index.html": "/contact_manager/index.html",
+    "main.073c9b0a.css.map": "/contact_manager/static/css/main.073c9b0a.css.map",
+    "main.d963ef3a.js.map": "/contact_manager/static/js/main.d963ef3a.js.map",
+    "787.f87af6a6.chunk.js.map": "/contact_manager/static/js/787.f87af6a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d963ef3a.js"
+  ]
+}
